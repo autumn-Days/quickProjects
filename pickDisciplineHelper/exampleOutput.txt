@@ -14,7 +14,15 @@
 		◦Monday by 15:30
 		◦Friday by 13:30
 -=-=-=-=-=-=-=-=-=-=-=-
-•3° possibility: Algorithms + Operating Systems
+•3° possibility: Data Structures + Database Systems
+	Data Structures info:
+		◦Monday by 13:30
+		◦Tuesday by 15:30
+	Database Systems info:
+		◦Wednesday by 13:30
+		◦Friday by 15:30
+-=-=-=-=-=-=-=-=-=-=-=-
+•4° possibility: Algorithms + Operating Systems
 	Algorithms info:
 		◦Wednesday by 13:30
 		◦Thursday by 13:30
@@ -22,7 +30,7 @@
 		◦Monday by 15:30
 		◦Friday by 13:30
 -=-=-=-=-=-=-=-=-=-=-=-
-•4° possibility: Algorithms + Networks
+•5° possibility: Algorithms + Networks
 	Algorithms info:
 		◦Wednesday by 13:30
 		◦Thursday by 13:30
@@ -30,7 +38,15 @@
 		◦Tuesday by 15:30
 		◦Thursday by 15:30
 -=-=-=-=-=-=-=-=-=-=-=-
-•5° possibility: Algorithms + CV1
+•6° possibility: Algorithms + Photoshop
+	Algorithms info:
+		◦Wednesday by 13:30
+		◦Thursday by 13:30
+	Photoshop info:
+		◦Monday by 15:30
+		◦Tuesday by 15:30
+-=-=-=-=-=-=-=-=-=-=-=-
+•7° possibility: Algorithms + CV1
 	Algorithms info:
 		◦Wednesday by 13:30
 		◦Thursday by 13:30
@@ -38,7 +54,7 @@
 		◦Monday by 13:30
 		◦Tuesday by 13:30
 -=-=-=-=-=-=-=-=-=-=-=-
-•6° possibility: Operating Systems + Networks
+•8° possibility: Operating Systems + Networks
 	Operating Systems info:
 		◦Monday by 15:30
 		◦Friday by 13:30
@@ -46,7 +62,15 @@
 		◦Tuesday by 15:30
 		◦Thursday by 15:30
 -=-=-=-=-=-=-=-=-=-=-=-
-•7° possibility: Operating Systems + CV1
+•9° possibility: Operating Systems + Database Systems
+	Operating Systems info:
+		◦Monday by 15:30
+		◦Friday by 13:30
+	Database Systems info:
+		◦Wednesday by 13:30
+		◦Friday by 15:30
+-=-=-=-=-=-=-=-=-=-=-=-
+•10° possibility: Operating Systems + CV1
 	Operating Systems info:
 		◦Monday by 15:30
 		◦Friday by 13:30
@@ -54,10 +78,42 @@
 		◦Monday by 13:30
 		◦Tuesday by 13:30
 -=-=-=-=-=-=-=-=-=-=-=-
-•8° possibility: Networks + CV1
+•11° possibility: Networks + Database Systems
 	Networks info:
 		◦Tuesday by 15:30
 		◦Thursday by 15:30
+	Database Systems info:
+		◦Wednesday by 13:30
+		◦Friday by 15:30
+-=-=-=-=-=-=-=-=-=-=-=-
+•12° possibility: Networks + CV1
+	Networks info:
+		◦Tuesday by 15:30
+		◦Thursday by 15:30
+	CV1 info:
+		◦Monday by 13:30
+		◦Tuesday by 13:30
+-=-=-=-=-=-=-=-=-=-=-=-
+•13° possibility: Database Systems + Photoshop
+	Database Systems info:
+		◦Wednesday by 13:30
+		◦Friday by 15:30
+	Photoshop info:
+		◦Monday by 15:30
+		◦Tuesday by 15:30
+-=-=-=-=-=-=-=-=-=-=-=-
+•14° possibility: Database Systems + CV1
+	Database Systems info:
+		◦Wednesday by 13:30
+		◦Friday by 15:30
+	CV1 info:
+		◦Monday by 13:30
+		◦Tuesday by 13:30
+-=-=-=-=-=-=-=-=-=-=-=-
+•15° possibility: Photoshop + CV1
+	Photoshop info:
+		◦Monday by 15:30
+		◦Tuesday by 15:30
 	CV1 info:
 		◦Monday by 13:30
 		◦Tuesday by 13:30

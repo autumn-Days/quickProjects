@@ -51,8 +51,8 @@ discipline2 = Discipline("Algorithms", "Wednesday", "Thursday", "13:30", "13:30"
 discipline3 = Discipline("Operating Systems", "Monday", "Friday", "15:30", "13:30")
 discipline4 = Discipline("Networks", "Tuesday", "Thursday", "15:30", "15:30")
 discipline5 = Discipline("Database Systems", "Wednesday", "Friday", "13:30", "15:30")
-d6 = discipline5 = Discipline("Photoshop", "Monday", "Tuesday", "15:30", "15:30")
-d7 = discipline5 = Discipline("CV1", "Monday", "Tuesday", "13:30", "13:30")
+d6 = Discipline("Photoshop", "Monday", "Tuesday", "15:30", "15:30")
+d7 = Discipline("CV1", "Monday", "Tuesday", "13:30", "13:30")
 
 discipline6 = Discipline("Machine Learning", "Monday", "Wednesday", "13:30", "15:30")
 discipline7 = Discipline("Artificial Intelligence", "Tuesday", "Friday", "15:30", "15:30")
@@ -60,7 +60,7 @@ discipline8 = Discipline("Software Engineering", "Monday", "Tuesday", "13:30", "
 discipline9 = Discipline("Computer Graphics", "Thursday", "Friday", "13:30", "15:30")
 discipline10 = Discipline("Cybersecurity", "Wednesday", "Thursday", "15:30", "13:30")
 
-disciplines = [discipline1,discipline2,discipline3,discipline4,discipline5]#,discipline6,discipline7,discipline8,discipline9,discipline10]
+disciplines = [discipline1,discipline2,discipline3,discipline4,discipline5,d6,d7]#,discipline6,discipline7,discipline8,discipline9,discipline10]
 
 myCombinator = Combinator(disciplines)
 myCombinator.bicliqueCombinator()
