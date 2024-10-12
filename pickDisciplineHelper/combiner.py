@@ -60,7 +60,7 @@ discipline8 = Discipline("Software Engineering", "Monday", "Tuesday", "13:30", "
 discipline9 = Discipline("Computer Graphics", "Thursday", "Friday", "13:30", "15:30")
 discipline10 = Discipline("Cybersecurity", "Wednesday", "Thursday", "15:30", "13:30")
 
-disciplines = [discipline1,discipline2,discipline3,discipline4,discipline5,d6,d7]#,discipline6,discipline7,discipline8,discipline9,discipline10]
+disciplines = [discipline1,discipline2,discipline3,discipline4,discipline5]#,discipline6,discipline7,discipline8,discipline9,discipline10]
 
 myCombinator = Combinator(disciplines)
 myCombinator.bicliqueCombinator()
